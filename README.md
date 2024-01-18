@@ -7,6 +7,7 @@ The webpage looks like the below image
 The message are detected like the below image example
 
 ![image](https://github.com/yugaljindal/ML_SMS_Spam_classifier/assets/43234658/67920599-4d5e-4f1e-802e-23b80090bf23)
+![image](https://github.com/yugaljindal/ML_SMS_Spam_classifier/assets/43234658/0109a194-05a4-41c9-b07e-97d6840113d4)
 
 
 How the project is implemented:
