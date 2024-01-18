@@ -9,6 +9,9 @@ The message are detected like the below image example
 ![image](https://github.com/yugaljindal/ML_SMS_Spam_classifier/assets/43234658/67920599-4d5e-4f1e-802e-23b80090bf23)
 ![image](https://github.com/yugaljindal/ML_SMS_Spam_classifier/assets/43234658/0109a194-05a4-41c9-b07e-97d6840113d4)
 
+The accuracy score and precision of our model looks like:
+![image](https://github.com/yugaljindal/ML_SMS_Spam_classifier/assets/43234658/f082f3d7-3009-4989-8122-0996a2201612)
+
 
 How the project is implemented:
 The SMS Spam collection dataset is taken from kaggle.
